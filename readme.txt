@@ -1,5 +1,5 @@
-=== Alemha watermarker ===
-Contributors: (mnbaaco)
+=== Alemha, Daniele Cannavacciuolo watermarker ===
+Contributors: (mnbaaco, Dax87)
 Tags: admin, gallery, image, media, photo, picture, signature, transparent, upload, watermark
 Requires at least: 3.0.1
 Tested up to: 4.2
