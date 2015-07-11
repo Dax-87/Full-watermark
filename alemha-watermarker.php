@@ -1,9 +1,10 @@
 <?php
 /*
-  Plugin Name: Alemha Watermarker
+  Plugin Name: Alemha Watermarker, Daniele Cannavacciuolo
   Plugin URI: http://alemha.mnbaa.com/
   Description: Allow you to add your watermark or signature to your website images both of text and image watermark are enabled.
   Author: Mnbaa CO
+  Credits: Dax87
   Author URI: http://www.mnbaa.com
   Version: 1.3
   Text Domian: mnbaa_watermark
